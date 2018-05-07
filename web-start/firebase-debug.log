@@ -1,0 +1,80 @@
+[debug] [2018-05-07T20:34:21.058Z] ----------------------------------------------------------------------
+[debug] [2018-05-07T20:34:21.060Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Davi Melo\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-05-07T20:34:21.061Z] CLI Version:   3.18.4
+[debug] [2018-05-07T20:34:21.061Z] Platform:      win32
+[debug] [2018-05-07T20:34:21.061Z] Node Version:  v8.11.1
+[debug] [2018-05-07T20:34:21.061Z] Time:          Mon May 07 2018 17:34:21 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:34:21.061Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-05-07T20:34:21.079Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-05-07T20:34:21.082Z] > authorizing via signed-in user
+[debug] [2018-05-07T20:34:21.086Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/fir-web-codelab-aps  
+  
+ Mon May 07 2018 17:34:21 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:34:22.035Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:34:22.036Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/fir-web-codelab-aps/tokens  
+  
+ Mon May 07 2018 17:34:22 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:34:22.747Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:34:22.748Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/fir-web-codelab-aps  
+  
+ Mon May 07 2018 17:34:22 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:34:23.796Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Davi Melo\Documents\friendlychat-web\web-start'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2018-05-07T20:34:25.187Z] Fetching environment
+[debug] [2018-05-07T20:34:25.191Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/185878472014:getServerAppConfig  
+  
+ Mon May 07 2018 17:34:25 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:34:25.191Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/185878472014/clients/_:getWebAppConfig  
+  
+ Mon May 07 2018 17:34:25 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:34:25.796Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:34:25.820Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:34:25.820Z] Starting @google-cloud/functions-emulator
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
+[debug] [2018-05-07T20:34:29.572Z] Parsing function triggers
+[debug] [2018-05-07T20:45:02.098Z] ----------------------------------------------------------------------
+[debug] [2018-05-07T20:45:02.100Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Davi Melo\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-05-07T20:45:02.101Z] CLI Version:   3.18.4
+[debug] [2018-05-07T20:45:02.101Z] Platform:      win32
+[debug] [2018-05-07T20:45:02.101Z] Node Version:  v8.11.1
+[debug] [2018-05-07T20:45:02.101Z] Time:          Mon May 07 2018 17:45:02 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:45:02.101Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-05-07T20:45:02.114Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-05-07T20:45:02.115Z] > authorizing via signed-in user
+[debug] [2018-05-07T20:45:02.118Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/fir-web-codelab-aps  
+  
+ Mon May 07 2018 17:45:02 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:45:03.663Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:45:03.664Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/fir-web-codelab-aps/tokens  
+  
+ Mon May 07 2018 17:45:03 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:45:04.371Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:45:04.372Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/fir-web-codelab-aps  
+  
+ Mon May 07 2018 17:45:04 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:45:05.466Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Davi Melo\Documents\friendlychat-web\web-start'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2018-05-07T20:45:06.758Z] Fetching environment
+[debug] [2018-05-07T20:45:06.765Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/185878472014:getServerAppConfig  
+  
+ Mon May 07 2018 17:45:06 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:45:06.766Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/185878472014/clients/_:getWebAppConfig  
+  
+ Mon May 07 2018 17:45:06 GMT-0300 (Hora Padrão de Buenos Aires)
+[debug] [2018-05-07T20:45:08.254Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-07T20:45:08.255Z] Starting @google-cloud/functions-emulator
+[debug] [2018-05-07T20:45:08.318Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
+[debug] [2018-05-07T20:45:11.434Z] Parsing function triggers
